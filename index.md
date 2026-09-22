@@ -156,14 +156,14 @@ Unity上での複製後の設定は特に必要ありません。
 
 ・S02_Summer > Animation > LongGlass 
 
-** Emission_1.anim：弱いエミッション **
+**Emission_1.anim：弱いエミッション**
 
 60フレームのRIM Color r, g, bの各値を1以上の任意の値に設定。大きいほど明るくなります。
 
 ※（r,g,b = 1, 1, 1) はエミッションが無い状態です。デフォルト値は （r,g,b = 1.6, 1.6, 1.6)です。
 
 
-** Emission_2.anim：強いエミッション **
+**Emission_2.anim：強いエミッション**
 
 60フレームのRIM Color r, g, bの各値を1以上の任意の値に設定。大きいほど明るくなります。
 
